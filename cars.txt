@@ -4,4 +4,3 @@ toyota
 bmw
 mazda
 benz
-land rover
